@@ -77,4 +77,4 @@ Contar con una distribución activa de Python (versión 3.9 o superior) y el ges
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/Luot-h/covid19-mx-econometric-analysis.git]
-   cd analisis-econometrico-covid19-mx
+   cd covid19-mx-econometric-analysis
