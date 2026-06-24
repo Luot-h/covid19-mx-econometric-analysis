@@ -1,0 +1,29 @@
+# Datos (Evitar subir archivos pesados)
+content/*
+data/raw/*
+data/processed/*
+*.csv
+*.xlsx
+*.zip
+
+# Entornos virtuales y dependencias
+venv/
+env/
+.venv/
+ENV/
+requirements.txt.bak
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python compilado y caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
